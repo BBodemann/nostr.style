@@ -2,8 +2,8 @@
      "status": "OK",
      "tag": "payRequest",
      "commentAllowed": 255,
-     "callback": "https://getalby.com/lnurlp/seaclassy626933/callback",
-     "metadata": "[[\"text/identifier\", \"seaclassy626933@getalby.com\"], [\"text/plain\", \"Sats for brian\"]]",
+     "callback": "https://getalby.com/lnurlp/nostrai/callback",
+     "metadata": "[[\"text/identifier\", \"nostrai@getalby.com\"], [\"text/plain\", \"Sats for brian\"]]",
      "minSendable": 100,
      "maxSendable": 11000000000,
      "payerData": {
