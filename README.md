@@ -1,2 +1,2 @@
 # nostr.style
-Future homne of the nostr.style relay
+Future home of the nostr.style relay
