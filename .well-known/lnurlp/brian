@@ -1,17 +1,19 @@
- {
-     "status": "OK",
-     "tag": "payRequest",
-     "commentAllowed": 255,
-     "callback": "https://getalby.com/lnurlp/nostrai/callback",
-     "metadata": "[[\"text/identifier\", \"nostrai@getalby.com\"], [\"text/plain\", \"Sats for brian\"]]",
-     "minSendable": 100,
-     "maxSendable": 11000000000,
-     "payerData": {
-         "name": {
-         "mandatory": false
-         },
-         "email": {
-         "mandatory": false
-         }
-     }
- }
+{
+   "status":"OK",
+   "tag":"payRequest",
+   "commentAllowed":255,
+   "callback":"https://getalby.com/lnurlp/nostrai/callback",
+   "metadata":"[[\"text/identifier\",\"nostrai@getalby.com\"],[\"text/plain\",\"Sats for Alby\"]]",
+   "minSendable":1000,
+   "maxSendable":11000000000,
+   "payerData":{
+      "name":{
+         "mandatory":false
+      },
+      "email":{
+         "mandatory":false
+      }
+   },
+   "nostrPubkey":"4ce01692f1d2a0c6e656302d65d567033e8a4649836719acc68b15fc6283430e",
+   "allowsNostr":true
+}
